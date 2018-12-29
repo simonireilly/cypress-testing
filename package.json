@@ -1,5 +1,7 @@
 {
   "name": "testing-cypress",
   "private": true,
-  "dependencies": {}
+  "devDependencies": {
+    "cypress": "^3.1.4"
+  }
 }
