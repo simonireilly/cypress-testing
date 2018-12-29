@@ -1,24 +1,17 @@
-# README
+# Cypress Testing
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple rails application being used to explore the [cypress](cypress.io) testing framework.
 
-Things you may want to cover:
+To get started run.
 
-* Ruby version
+```
+npm i
 
-* System dependencies
+rails db:migrate
 
-* Configuration
+rails s
+```
 
-* Database creation
+Start cyrpess following the directions [in their docs](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Opening-Cypress)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Use the gui to run tests.
