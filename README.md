@@ -1,6 +1,6 @@
 # Cypress Testing
 
-This is a simple rails application being used to explore the [cypress](cypress.io) testing framework.
+This is a simple rails application being used to explore the [cypress](https://www.cypress.io/) testing framework.
 
 To get started run.
 
